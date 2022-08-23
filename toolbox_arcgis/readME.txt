@@ -10,6 +10,16 @@ Nombre:Toolbox_GIS_general.tbx
 Estas herramientas fueron creadas en ArcGIS 10.5p.
 
 #########################################################
+##################INCORPORACIÓN A ARCGIS###################################
+#########################################################
+1. Abrir Arcgis
+2. Botón derecho en la caja de ArcToolbox
+3. Seleccionar Add Toolbox...
+4. En el cuadro de diálogo seleccionar Toolbox_GIS_general.tbx
+
+
+
+#########################################################
 ##################TOOLS###################################
 #########################################################
 

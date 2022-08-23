@@ -33,7 +33,8 @@ Input Feature Type (optional): Si quieres coger un tipo de shapefile (punto,pol�
 
 CRS_target : A qué CRS quieres reproyectar todos los input shapefiles.Default[ETRS 89 UTM ZONE 30n  EPSG:25830].
 
-Output_folder: Ruta del archivo output en cada iteración. Ej: "C:\Users\USER\OneDrive\Documentos\TRABAJO\GIS_general\eliminar\%name%". "C:\Users\USER\OneDrive\Documentos\TRABAJO\GIS_general\eliminar\" hace referencia a la carpeta donde quieres guardarlo. "%name%" Hace que se guarde cada archivo output con el mismo nombre del archivo input. Si quieres añadirle un prefijo, se podría hacer "C:\Users\USER\OneDrive\Documentos\TRABAJO\GIS_general\eliminar\rio_%name%".
+Output_folder: Ruta del archivo output en cada iteración. Ej: "C:\Users\USER\OneDrive\Documentos\TRABAJO\GIS_general\eliminar\%name%". "C:\Users\USER\OneDrive\Documentos\TRABAJO\GIS_general\eliminar\" hace referencia a la carpeta donde quieres guardarlo. 
+"%name%" Hace que se guarde cada archivo output con el mismo nombre del archivo input. Si quieres añadirle un prefijo, se podría hacer "C:\Users\USER\OneDrive\Documentos\TRABAJO\GIS_general\eliminar\rio_%name%".
 
 
 
